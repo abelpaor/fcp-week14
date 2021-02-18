@@ -1,3 +1,4 @@
 #! /usr/bin/python
-
-print("Welcome to my repository")
+print("this line is before")
+print("Welcome to my repository, the first one")
+print("this is a new line")
